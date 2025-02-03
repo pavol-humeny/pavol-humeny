@@ -1,9 +1,14 @@
-## About Me:
-🎓 Študent FIT VUT Brno<br>🖥️ Technológie & inovácie<br>🧩 Hľadám nové výzvy<br>⚡ Hranice sú na to, aby sa posúvali
+## ✨ About Me:
+🎓 Student at FIT VUT Brno  
+💻 Passionate about technology & innovation  
+🧩 Always looking for new challenges  
+🚀 Pushing boundaries to achieve more 
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/humeny.pavol) [![Instagram](https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pavol.humeny)  
+[![Facebook](https://img.shields.io/badge/-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/humeny.pavol) **humeny.pavol**
+
+[![Instagram](https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pavol.humeny)  **pavol.humeny**
 
 ## ✉️ Contact:
 [![Email](https://img.shields.io/badge/-D14836.svg?logo=gmail&logoColor=white)](mailto:pavol.humeny@gmail.com)  **pavol.humeny@gmail.com**
