@@ -120,10 +120,3 @@
 - 📊 **Evaluetto** – Modern evaluation platform built with React, TypeScript and Express
 - 🌐 More projects available in my repositories.
 
----
-
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavol-Humeny&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavol-Humeny&layout=compact&theme=transparent)
